@@ -22,5 +22,7 @@ RexApp.controller('searchRexCtrl', ['$scope', '$http', function($scope,$http){
 
    }
 
+   
+
 
 }])
